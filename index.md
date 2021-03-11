@@ -5,7 +5,11 @@ sections:
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
     content: |
-      aa
+      ![](/images/brandon-guidelines.png)aa
+
+
+
+      bbb![](/images/smiling-petunia.png)
     actions:
       - label: Try Free
         url: /pricing
