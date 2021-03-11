@@ -7,9 +7,13 @@ sections:
     content: |
       ![](/images/brandon-guidelines.png)aa
 
-
-
       bbb![](/images/smiling-petunia.png)
+
+
+
+      AAAA
+
+      ![](/images/heic1608a.jpg)
     actions:
       - label: Try Free
         url: /pricing
